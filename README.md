@@ -1,6 +1,5 @@
 -  @HelicasECoode42
--  College FRESHMAN who know nothing about coding..
-- 321 go
+-  College FRESHMAN who knows nothing about coding..
 
 <!---
 HelicasECoode42/HelicasECoode42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
